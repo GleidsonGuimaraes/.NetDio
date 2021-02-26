@@ -1,0 +1,16 @@
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csprojAssemblyReference.cache
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+C:\Users\Gleidson\Pasta Pessoal\Programação\Cursos\DotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
