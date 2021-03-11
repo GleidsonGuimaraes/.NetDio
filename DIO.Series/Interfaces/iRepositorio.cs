@@ -1,6 +1,8 @@
+using System.Collections.Generic;
+
 namespace DIO.Series.Interfaces
 {
-    public interface iRepositorio<T>
+    public interface IRepositorio<T>
     {
          List<T> Lista();
          T RetornaPorId(int id);

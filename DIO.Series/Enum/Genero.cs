@@ -1,4 +1,4 @@
-namespace DIO.Series.Enum
+namespace DIO.Series
 {
     public enum Genero
     {
@@ -10,7 +10,7 @@ namespace DIO.Series.Enum
         Espionagem = 6,
         Faroeste = 7,
         Fantasia = 8,
-        Ficcao Cientifica = 9,
+        Ficcao_Cientifica = 9,
         Musical = 10,
         Romance = 11,
         Suspense = 12,
