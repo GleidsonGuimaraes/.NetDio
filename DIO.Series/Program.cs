@@ -9,7 +9,7 @@ namespace DIO.Series
         {
             string opcaoUsuario = ObterOpcaoUsuario();
 
-            while (opcaoUsuario.ToUpper() != "x")
+            while (opcaoUsuario.ToUpper() != "X")
             {
                 switch (opcaoUsuario)
                 {
@@ -28,12 +28,11 @@ namespace DIO.Series
                     case "5":
                         VisualizarSerie();
                         break;
-                    case "c":
+                    case "C":
                         Console.Clear();
                         break;
-
                     default:
-                        throw new ArgumentOutOfRangeException();
+                        throw new ArgumentOutOfRangeException(); 
                 }
 
                 opcaoUsuario = ObterOpcaoUsuario();
@@ -142,8 +141,8 @@ namespace DIO.Series
             Console.WriteLine("3- Atualizar série");
             Console.WriteLine("4- Excluir série");
             Console.WriteLine("5- Visualizar série");
-            Console.WriteLine("c- Limpar tela");
-            Console.WriteLine("x- Sair");
+            Console.WriteLine("C- Limpar tela");
+            Console.WriteLine("X- Sair");
             Console.WriteLine();
 
             string opcaoUsuario = Console.ReadLine().ToUpper();
